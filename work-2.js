@@ -1,4 +1,4 @@
-const creagePerson = (callback) => {
+const createPerson = (callback) => {
   let person = {};
   callback(person, setName);
 };
